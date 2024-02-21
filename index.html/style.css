@@ -1,0 +1,78 @@
+{
+    margin: 10px;
+    padding-top: 10px;
+
+}
+
+body{
+    background-color: aquamarine;
+}
+
+form{
+    background-color: coral;
+    margin: auto;
+    padding: 10px;
+    max-width: 800px;
+    border: 2px solid black;
+    border-radius: 20px;
+    box-shadow: inset 5px 5px 12px rgb(51, 49, 49), 5px 
+    
+}
+label{
+    margin-bottom: 5px;
+    text-shadow: 2px 2px 4px;
+}
+
+input [type="text"],
+input [type="role"],
+input [type="text"],
+input [type="date"],
+input [type="number"], {
+    width: 80%;
+    padding: 20px;
+    margin-bottom: 10px;
+    border: 10px solid #ddd;
+    border-radius: 5px;
+    box-shawdow: inset 5px 5px 12px rgba(245, 50, 50, 0, 393),
+    5px 5px 12px rgba(25, 39, 231, 0, 406)
+
+}
+
+input [type"date"],
+input [type"number"], {
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 15px;
+    box-shawdow: inset 5px 5px 12px rgba(212, 186, 17, 0, 854),
+    5px 5px 12px rgba(201, 234, 37, 0, 758)
+}
+
+
+textarea{
+    margin: auto;
+    padding: 10px;
+    max-width: 500px;
+    border: 2px solid black;
+    border-radius: 20px;
+    box-shadow: inset 5px 5px 12px rgb(51, 49, 49), 5px 
+}
+
+select{
+    margin: auto;
+    padding: 10px;
+    max-width: 500px;
+    border: 2px solid black;
+    border-radius: 20px;
+    box-shadow: inset 5px 5px 12px rgb(51, 49, 49), 5px 
+}
+
+option{
+    margin: auto;
+    padding: 10px;
+    max-width: 500px;
+    border: 2px solid black;
+    border-radius: 20px;
+    box-shadow: inset 5px 5px 12px rgb(51, 49, 49), 5px 
+}
